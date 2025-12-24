@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm a Computer Software Student
 
-<!--
-**Han-Donghee/Han-Donghee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **2nd-Year Student**  
+Department of Computer Software  
+Dongseoul University
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- Undergraduate student majoring in **Computer Software**
+- Currently focusing on **C programming** and core CS fundamentals
+- Interested in low-level programming and problem-solving
+
+---
+
+## 🔧 Tech Stack
+
+### 🔹 Primary Language
+- **C**
+
+### 🔹 Other Languages
+- HTML
+- CSS
+- JavaScript
+- Python
+
+---
+
+## 📚 Currently Learning
+- Data Structures & Algorithms
+- Operating Systems
+- C-based system programming
+
+---
+
+## 🎯 Goal
+- Build a solid foundation in **software fundamentals**
+- Improve problem-solving skills through C programming
+- Grow step by step as a reliable software developer
+
+---
+
+## 📌 Notes
+- This repository is used to document my learning progress
+- Codes are written with a focus on clarity and fundamentals
+
