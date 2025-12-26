@@ -1,4 +1,4 @@
-# 👋 Make End-user Satisfaction Program
+# Make End-user Satisfaction Program
 
 # About Me 😎
 🎓 **2nd-Year Student**  
