@@ -1,12 +1,10 @@
-# 👋 Hi, I'm a Computer Software Student
+# 👋 Make End-user Satisfaction Program
 
+# About Me 😎
 🎓 **2nd-Year Student**  
 Department of Computer Software  
 Dongseoul University
 
----
-
-## 🧑‍💻 About Me
 - Undergraduate student majoring in **Computer Software**
 - Currently focusing on **C programming** and core CS fundamentals
 - Interested in low-level programming and problem-solving
