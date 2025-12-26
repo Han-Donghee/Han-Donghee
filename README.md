@@ -12,7 +12,6 @@ Dongseoul University
 ---
 
 ## 🔧 Tech Stack
-
 ### 🔹 Primary Language
 - **C**
 
@@ -23,22 +22,15 @@ Dongseoul University
 - Python
 
 ---
-
+<!--
 ## 📚 Currently Learning
 - Data Structures & Algorithms
 - Operating Systems
 - C-based system programming
-
+-->
 ---
 
 ## 🎯 Goal
 - Build a solid foundation in **software fundamentals**
 - Improve problem-solving skills through C programming
 - Grow step by step as a reliable software developer
-
----
-
-## 📌 Notes
-- This repository is used to document my learning progress
-- Codes are written with a focus on clarity and fundamentals
-
