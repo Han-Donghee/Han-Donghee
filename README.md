@@ -27,9 +27,9 @@ Dongseoul University
 - Data Structures & Algorithms
 - Operating Systems
 - C-based system programming
--->
----
 
+---
+-->
 ## 🎯 Goal
 - Build a solid foundation in **software fundamentals**
 - Improve problem-solving skills through C programming
