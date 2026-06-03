@@ -16,8 +16,8 @@ Dongseoul University
 - **C**
 
 ### 🔹 Other Languages
+- C++
 - HTML
-- CSS
 - JavaScript
 - Python
 
